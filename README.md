@@ -1,21 +1,29 @@
-# to-do-app
+# ToDo App
 
-## Project setup
+
+## Описание
+
+ToDo App - SPA для создания задач.
+
+## Функционал
+
+Пользоатель может создать задачу, присвоить ей тэги и дату. После создания есть возможность изменения статуса задачи.
+
+## Что использовалось для разработки
+
+Vue.js, Materialize
+
+## Настройка сборки
+
 ```
-npm install
+# клон репозитория
+$ git clone https://github.com/itwassoclear/to-do-app.git
+
+# установка зависимостей
+$ npm install
+
+# локальный сервер для предпросмотра
+$ npm run serve
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-Click to check [this link](https://itwassoclear.github.io/to-do-app/).
+Приложение доступно по [ссылке](https://itwassoclear.github.io/to-do-app/)
