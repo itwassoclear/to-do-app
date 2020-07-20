@@ -17,3 +17,5 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+Click to check [this link](https://itwassoclear.github.io/to-do-app/).
